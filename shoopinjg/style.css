@@ -1,0 +1,31 @@
+#dren{
+    background-color: red;
+    border-radius: 20px;
+    color: white;
+}
+#bajrami{
+
+    border-radius: 20px;
+}
+#salihu{
+    display: flex;
+    border-radius: 20px;
+    justify-content: center;
+    margin: bottom 25px; ;
+    height: 2em;
+}
+#ola{
+
+
+    display: flex;
+}
+#rron{
+justify-content: space-between;
+width: 112em;
+    display: flex;
+}
+#dren1{
+width: 10em;
+border-right: 1px solid rgba(19, 18, 18, 0.521);
+
+}
